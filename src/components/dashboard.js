@@ -7,12 +7,12 @@ import WidgetDoughnut from "./widgetDoughnut";
 
 function dashboard() {
 	const chartData = [
-		{ label: "Electronic accessories", value: "166" },
-		{ label: "Fashion accessories", value: "160" },
-		{ label: "Food and beverages", value: "152" },
-		{ label: "Health and beauty", value: "174" },
-		{ label: "Home and lifestyle", value: "178" },
-		{ label: "Sports and travel", value: "170" },
+		{ label: "Electronic accessories", value: "170" },
+		{ label: "Fashion accessories", value: "178" },
+		{ label: "Food and beverages", value: "174" },
+		{ label: "Health and beauty", value: "152" },
+		{ label: "Home and lifestyle", value: "160" },
+		{ label: "Sports and travel", value: "166" },
 	];
 
 	return (

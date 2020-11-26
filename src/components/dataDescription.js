@@ -6,12 +6,11 @@ function dataDescription() {
 		<div className="description">
 			<h1>Sales Dashboard</h1>
 			<p>
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque
-				ex qui magnam aut officiis est reprehenderit accusantium. Dicta,
-				quos ducimus ipsa laudantium ex repellendus ea repudiandae,
-				quisquam quaerat officiis, quis a. Hic blanditiis voluptatum
-				tempora aspernatur. Iure neque repellat cupiditate dicta
-				distinctio. Ipsam suscipit at, atque placeat fugit nulla saepe.
+				The following data contains information about sales of products
+				of different product lines from various cities. The data has
+				various genders and modes of payments categorised date-wise.
+				Product info consists of unit price, units sold, profits after
+				taxation, etc.
 			</p>
 			<div className="schema">
 				<h4>Dataset schema: </h4>
